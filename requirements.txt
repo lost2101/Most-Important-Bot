@@ -1,4 +1,1 @@
 discord.py
-commands
-asyncio
-Bot
